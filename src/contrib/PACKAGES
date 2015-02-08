@@ -5,10 +5,10 @@ MD5sum: 748d725eb3cb71a2b7506144917e219a
 NeedsCompilation: no
 
 Package: gneisschart
-Version: 0.0.1
+Version: 0.0.2
 Imports: htmlwidgets
 Suggests: knitr
 License: MIT + file LICENSE
-MD5sum: 0d56bf4668a7f04c4bc60fdd32986d44
+MD5sum: f794b267757246f1ea918241d42e3fe5
 NeedsCompilation: no
 
